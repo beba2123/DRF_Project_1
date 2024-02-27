@@ -6,5 +6,9 @@
     "window.closeWhenEmpty": false,
     "window.density.editorTabHeight": "default",
     "files.autoSave": "onFocusChange",
-    "editor.renderWhitespace": "all"
+    "editor.renderWhitespace": "all",
+    "editor.scrollbar.verticalScrollbarSize": 15,
+    "editor.fontSize": 12,
+    "editor.tabSize": 5,
+    "editor.accessibilityPageSize": 10
 }
